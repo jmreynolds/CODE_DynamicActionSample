@@ -1,0 +1,15 @@
+<mvvm:View xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:mvvm="clr-namespace:CODE.Framework.Wpf.Mvvm;assembly=CODE.Framework.Wpf.Mvvm"
+           Title="Review"
+           Style="{DynamicResource CODE.Framework-Layout-PrimarySecondaryFormLayout-Vertical-Split}"
+           >
+    <mvvm:PartialView Controller="ReviewController" Action="{Binding MainReviewScreen}" Width="auto" Height="auto" />
+    <mvvm:View UIElementType="Secondary">
+        <StackPanel>
+            <Button Command="{Binding ReviewPizzasAction}"
+                    Content="{Binding ReviewPizzasAction.Caption}"></Button>
+            <Button Command="{Binding ReviewSidesAction}"
+                    Content="{Binding ReviewSidesAction.Caption}"></Button>
+        </StackPanel>
+    </mvvm:View>
+</mvvm:View>

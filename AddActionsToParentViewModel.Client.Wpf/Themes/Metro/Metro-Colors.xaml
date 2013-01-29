@@ -1,0 +1,50 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- 
+    The following is a list of detault color resources used by the CODE Framework. Uncomment and change colors if desired.
+    Note that each color also has a Brush equivalent. 
+    For instance in addition to CODE.Framework-Application-ThemeColor1, 
+    there also is a CODE.Framework-Application-ThemeBrush1 that is bound to the color, 
+    but developers are free to change them independently if desired. 
+    -->
+    
+    <!--<Color x:Key="CODE.Framework-Application-BackgroundColor1">Black</Color>
+    <Color x:Key="CODE.Framework-Application-BackgroundColor2">White</Color>
+    <Color x:Key="CODE.Framework-Application-BackgroundColor3">DarkGreen</Color> -->
+
+    <Color x:Key="CODE.Framework-Application-ThemeColor1">DarkRed</Color>
+    <!-- <Color x:Key="CODE.Framework-Application-ThemeColor2">Teal</Color>
+    <Color x:Key="CODE.Framework-Application-ThemeColor3">LimeGreen</Color>-->
+
+    <Color x:Key="CODE.Framework-Application-ForegroundColor1">White</Color>
+    <!--<Color x:Key="CODE.Framework-Application-ForegroundColor2">Black</Color>
+    <Color x:Key="CODE.Framework-Application-ForegroundColor3">Gray</Color>
+
+    <Color x:Key="CODE.Framework-Application-HighlightColor1">Blue</Color>
+    <Color x:Key="CODE.Framework-Application-HighlightColor2">CornflowerBlue</Color>
+    <Color x:Key="CODE.Framework-Application-HighlightColor3">Yellow</Color>
+
+    <Color x:Key="CODE.Framework-Application-StandardViewModelForegroundColor">White</Color>
+    <Color x:Key="CODE.Framework-Application-StandardViewModelBackgroundColor">Orange</Color>-->
+
+    <!-- Special colors only used in Metro -->
+    <!-- Tile selection -->
+    <!--<Color x:Key="CODE.Framework-Metro-TileSelectionColor">White</Color>
+    <Color x:Key="CODE.Framework-Metro-TileSelectionCheckMarkColor">Orange</Color>-->
+
+    <!-- Application status bar -->
+    <!--<Color x:Key="CODE.Framework-Metro-StatusReadyBackgroundColor">White</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusReadyForegroundColor">Black</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusProcessingBackgroundColor">White</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusProcessingForegroundColor">Black</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusWarningBackgroundColor">DarkOrange</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusWarningForegroundColor">White</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusErrorBackgroundColor">DarkRed</Color>
+    <Color x:Key="CODE.Framework-Metro-StatusErrorForegroundColor">White</Color>-->
+
+    <!-- Notification toast colors -->
+    <!--<Color x:Key="CODE.Framework-Metro-NotificationForegroundColor">White</Color>
+    <Color x:Key="CODE.Framework-Metro-NotificationBackgroundColor">DarkRed</Color>-->
+
+</ResourceDictionary>

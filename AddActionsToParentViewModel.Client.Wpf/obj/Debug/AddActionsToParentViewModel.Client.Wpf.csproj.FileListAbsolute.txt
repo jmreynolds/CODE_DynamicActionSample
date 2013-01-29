@@ -1,0 +1,110 @@
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\AddActionsToParentViewModel.Client.Wpf.exe
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\AddActionsToParentViewModel.Client.Wpf.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.Utilities.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Services.Client.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Documents.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Mvvm.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Battleship.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Metro.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\JetBrains.Annotations.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.Utilities.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.Utilities.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Services.Client.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Services.Client.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Documents.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Documents.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Mvvm.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Mvvm.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Battleship.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Battleship.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Metro.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Metro.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\bin\Debug\JetBrains.Annotations.xml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Colors.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Fonts.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-IconBrushes.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Layout-PrimarySecondaryForm.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Shell.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.Default.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.Layout.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.Metro.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.Default.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.Layout.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.Metro.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.Default.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.Layout.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.Metro.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\App.baml
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\App.g.cs
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf_MarkupCompile.cache
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.g.resources
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.Properties.Resources.resources
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.csproj.GenerateResource.Cache
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.exe
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.exe
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\AddActionsToParentViewModel.Client.Wpf.exe
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\AddActionsToParentViewModel.Client.Wpf.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.Utilities.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Services.Client.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Documents.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Mvvm.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Battleship.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Metro.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.Utilities.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Core.Utilities.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Services.Client.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Services.Client.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Documents.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Documents.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Mvvm.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Mvvm.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Battleship.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Battleship.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Metro.pdb
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\CODE.Framework.Wpf.Theme.Metro.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Colors.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Fonts.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-IconBrushes.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Layout-PrimarySecondaryForm.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro-Shell.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Themes\Metro\Metro.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.Default.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.Layout.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.Metro.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Pizzas.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.Default.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.Layout.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.Metro.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Review.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.Default.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.Layout.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.Metro.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\Views\Review\Sides.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\App.baml
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\App.g.cs
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf_MarkupCompile.cache
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.g.resources
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.Properties.Resources.resources
+C:\Users\Joseph\Documents\GitHub\CODE_DynamicActionSample\AddActionsToParentViewModel.Client.Wpf\obj\Debug\AddActionsToParentViewModel.Client.Wpf.csproj.GenerateResource.Cache

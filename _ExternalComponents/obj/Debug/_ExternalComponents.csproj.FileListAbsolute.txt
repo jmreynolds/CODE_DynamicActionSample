@@ -1,0 +1,5 @@
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\_ExternalComponents\bin\Debug\_ExternalComponents.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\_ExternalComponents\bin\Debug\_ExternalComponents.pdb
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\_ExternalComponents\obj\Debug\_ExternalComponents.csprojResolveAssemblyReference.cache
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\_ExternalComponents\obj\Debug\_ExternalComponents.dll
+C:\Development\InfoCraft\TFS2012\InfoCraft Blog Samples\AddActionsToParentViewModel\_ExternalComponents\obj\Debug\_ExternalComponents.pdb
